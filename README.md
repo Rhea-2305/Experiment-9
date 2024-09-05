@@ -58,6 +58,7 @@ Visual Studio Code
 A matrix can be transposed by flipping its original matrix over its diagonal, which essentially switches the rows and columns. The element in the original matrix at position (i, j) for a given matrix becomes the element in the transposed matrix at position (j, i). For a matrix ( A ), this operation is represented by ( A^T ). Applications for transposing matrices include data transformation in computer science and engineering, matrix operations, and solving linear equations.
 
 ## Output
+![image](https://github.com/user-attachments/assets/0d544b54-aba3-42fb-9d7d-90f6943c3780)
 
 ## Conclusion
 We printed the transpose of a matrix.
