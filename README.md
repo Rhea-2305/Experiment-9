@@ -26,3 +26,19 @@ Visual Studio Code
 A basic operation in mathematics is matrix addition, which is the summation of the corresponding elements of two matrices of the same dimensions. To create a new matrix with the same dimensions, align each element in the first matrix with its corresponding member in the second matrix, then compute their total. This process is known as matrix addition. To obtain each element in the output matrix, for instance, if you have two 3x3 matrices, you add the elements from the two input matrices that are in the same position. The process of multiplying two matrices to create a new matrix is known as matrix multiplication, although it needs a certain alignment of the dimensions. The number of rows in the second matrix and the number of columns in the first matrix must match in order to multiply two matrices. The number of rows in the resultant matrix and the number of columns in the second matrix match the dimensions of the original matrix. The dot product of the matching row from the first matrix and the column from the second matrix is used to calculate each element in the final matrix. To do this, multiply every pair of elements, then add up the results. In many domains, including linear algebra, computer graphics, and physics simulations, matrix multiplication is an essential function.
 
 ## Output
+![image](https://github.com/user-attachments/assets/1293d462-8612-4177-9f5e-feef3b628b33)
+
+## Conclusion
+We learned how to perform matrix addition and multiplication in C++.
+
+## Program 3
+## Aim
+Take matrix elements from user and perform addition of diagonal elements.
+
+## Software used
+Visual Studio Code
+
+## Theory
+Elements that are diagonal Summing up the elements along a matrix's diagonals is referred to as addition. There are two main diagonals in a square matrix: the top-left primary diagonal that runs to the bottom-right corner and the top-right secondary diagonal that runs to the bottom-left corner. You add up the elements where the row index and column index are equal to determine the total of the primary diagonal elements. The components where the row index plus the column index equals the matrix size minus one are added together to form the secondary diagonal. Numerous mathematical and computational tasks, such as matrix analysis and algorithms, benefit from this procedure.
+
+## Output
