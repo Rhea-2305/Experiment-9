@@ -42,3 +42,22 @@ Visual Studio Code
 Elements that are diagonal Summing up the elements along a matrix's diagonals is referred to as addition. There are two main diagonals in a square matrix: the top-left primary diagonal that runs to the bottom-right corner and the top-right secondary diagonal that runs to the bottom-left corner. You add up the elements where the row index and column index are equal to determine the total of the primary diagonal elements. The components where the row index plus the column index equals the matrix size minus one are added together to form the secondary diagonal. Numerous mathematical and computational tasks, such as matrix analysis and algorithms, benefit from this procedure.
 
 ## Output
+![image](https://github.com/user-attachments/assets/de2b61f1-ad93-4a3c-8b54-eb2e5d88ad30)
+
+## Conclusion
+We learned how to perform diagonal elements addition of matrix.
+
+## Program 4
+## Aim
+Take matrix elements from user and perform transpose operation on the matrix.
+
+## Software used
+Visual Studio Code
+
+## Theory
+A matrix can be transposed by flipping its original matrix over its diagonal, which essentially switches the rows and columns. The element in the original matrix at position (i, j) for a given matrix becomes the element in the transposed matrix at position (j, i). For a matrix ( A ), this operation is represented by ( A^T ). Applications for transposing matrices include data transformation in computer science and engineering, matrix operations, and solving linear equations.
+
+## Output
+
+## Conclusion
+We printed the transpose of a matrix.
